@@ -2,7 +2,7 @@ import React from 'react'
 
 const VideoCarousel = () => {
   return (
-    <div>VideoCarousel</div>
+    <div className='flex items-center'>VideoCarousel</div>
   )
 }
 
