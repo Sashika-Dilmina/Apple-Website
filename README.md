@@ -1,12 +1,26 @@
-# React + Vite
+# React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React project built using **Vite**. It includes minimal setup for React with HMR (Hot Module Replacement) and ESLint support. The project can be deployed easily to live hosting platforms like **Vercel**, **Netlify**, or **GitHub Pages**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Live Link**
 
-## Expanding the ESLint configuration
+You can view the project live here:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Vercel:** [https://appleweb-xi.vercel.app/]  
+
+
+---
+
+## **Features**
+
+- React + Vite setup with fast HMR
+- ESLint integration for code quality
+- Scroll animations with GSAP
+- Video and image components
+- Fully responsive design
+- Easy deployment to live URLs
+
+---
+
