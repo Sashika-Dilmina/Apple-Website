@@ -38,6 +38,7 @@ const Hero = () => {
         autoPlay
          muted 
          playsInline
+         loop
          
          
          >
